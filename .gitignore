@@ -1,0 +1,5 @@
+split/
+env/
+.vscode/
+__pycache__/
+subtitles.csv
